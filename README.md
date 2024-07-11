@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, MEARN**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **AI & ML Integration and Power BI**
 
 - 📫 How to reach me **rugmaspta@gmail.com**
 
