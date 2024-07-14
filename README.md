@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Transit Tribe**
 
-- 🌱 I’m currently learning **React Native, MEARN**
+- 🌱 I’m currently learning **AI & ML Integration**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Power BI**
 
 - 📫 How to reach me **rugmaspta@gmail.com**
 
