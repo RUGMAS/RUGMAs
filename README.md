@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugmas&label=Profile%20views&color=0e75b6&style=flat" alt="rugmas" /> </p>
 
-- 🔭 I’m currently working on **Transit Tribe**
+- 🔭 I’m currently working on **Transit Tribe (React Native)**
 
 - 🌱 I’m currently learning **AI & ML Integration**
 
