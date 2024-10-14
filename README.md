@@ -1,6 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Rugma S</h1>
-<h3 align="center">Software Engineer from India 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugmas&label=Profile%20views&color=0e75b6&style=flat" alt="rugmas" /> </p>
 
